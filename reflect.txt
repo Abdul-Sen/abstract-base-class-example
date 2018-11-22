@@ -1,0 +1,15 @@
+NAME: Abdul Rehman Jahangir
+Seneca ID: 149019176
+
+Q-1)What is the difference between an abstract base class and a concrete class? 
+Ans-) An abstract base class contains or inherits at least one pure virtual function. This means that it cannot be instantiated since pure virtual functions are for the derived classes to build upon. A concrete class can create instances of itself as it cannot contain a pure virtual function thus all the function that it has have a definition.
+
+Q-)Identify the functions that shadow functions of the same name in your solution? 
+Ans-)
+Credit() and debit() functions of ChequingAccount shadow those of Account class.
+Q-)Explain what have you learned in this workshop 
+This workshop played  an important role in helping me understand how an interface class is built and how to utilize it. It also helped me understand Inclusion polymorphism in a much deeper way than what I learned from the notes. Furthermore, I was able to see how functions of a derived class overshadow functions of base class and I learned how to call base class functions in case overshadowing happens.
+
+Quiz 8 Reflection
+
+No question was answered incorrectly.
